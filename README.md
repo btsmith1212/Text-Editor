@@ -25,3 +25,9 @@ Please refer to the LICENSE in the repo.
 https://github.com/btsmith1212/Text-Editor.git
 
 https://text-editor1212-e1fe8296a818.herokuapp.com/
+
+## Screenshots
+
+<img width="123" alt="Capture1" src="https://github.com/btsmith1212/Text-Editor/assets/135077506/637d2af9-1e0b-4c1a-8b7a-252ba31fb208">
+
+<img width="960" alt="Capture2" src="https://github.com/btsmith1212/Text-Editor/assets/135077506/fb71a0ec-f76f-4579-8893-7c06c78dce8c">
