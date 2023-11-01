@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Visit Heroku website below to create notes or code snippets with or without an internet connection. Click install to save for use locally.
+Visit Heroku website below to create notes or code snippets with an internet connection. Click install to save for use locally without an internet connection.
 
 ## Credits
 
